@@ -1,0 +1,12 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-size: 13px;
+	font-family: 'century gothic', calibri, sans-serif;
+}
+
+
+li {
+    display: flex;
+    list-style: none;
+}
